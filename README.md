@@ -1,3 +1,5 @@
+Forked to play around and possibly improve it later on, not recommended to use right now, as there are no advantages over it's original :-)
+
 # MegaBrush
 MegaBrush is a firmware for common atmel based brushless ESCs.
 This library makes it possible easily convert a brushless ESC into a brushed ESC.
